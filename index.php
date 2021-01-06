@@ -23,7 +23,7 @@ include "./extra/asset.php";
     
     <div class="alert alert-danger" role="alert">
   <h1  class="alert-heading text-center text-strong">WARNING!</h1>
-  <p></p>
+  <p>인도에서 조류 독감 발생</p>
   <hr>
   <H4><p class="mb-0 text-center"> Bird Flu Outbreak In India,Central government on high alert over Bird Flu.</p></H4>
 </div>
