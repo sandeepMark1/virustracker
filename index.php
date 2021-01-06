@@ -21,6 +21,13 @@ include "./extra/asset.php";
   </head>
   <body>
     
+    <div class="alert alert-danger" role="alert">
+  <h1  class="alert-heading text-center text-strong">WARNING!</h1>
+  <p></p>
+  <hr>
+  <H4><p class="mb-0 text-center"> Bird Flu Outbreak In India,Central government on high alert over Bird Flu.</p></H4>
+</div>
+    
 
  <div class="container-fluid bg-dark p-5 text-center my-3">
    <h1 class=" container-fluid bg-primary text-white bg-dark">Covoid19 Tracker</h1>
